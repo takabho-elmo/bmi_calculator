@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMICaliculator</string>
+    <string name="normal_range">(普通体重は 18.5 〜q 24.9)</string>
+    <string name="weight">体重</string>
+    <string name="height">身長</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="calculate">計算する</string>
+    <string name="underweight">低体重</string>
+    <string name="normal">普通体重</string>
+    <string name="obese1">肥満(1度)</string>
+    <string name="obese2">肥満(2度)</string>
+    <string name="obese3">肥満(3度)</string>
+    <string name="obese4">肥満(4度)</string>
+</resources>
